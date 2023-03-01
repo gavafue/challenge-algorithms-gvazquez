@@ -1,0 +1,11 @@
+{
+  "name": "challenge-algoritms-gvazquez",
+  "version": "1.0.0",
+  "description": "This project involves creating algorithms and data structures for: Extracting letters, numbers, and the highest number from a one-dimensional array. Implementing basic arithmetic operations in a hashmap, with functions to handle arrays. Generating a random alphanumeric ID pattern and storing it in a variable.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Vazquez (@gavafue)",
+  "license": "ISC"
+}
